@@ -6,6 +6,7 @@ import { TypeOrmModule } from "@nestjs/typeorm";
 import { Contact } from "./entities/contact.entity";
 // API endpoints qo'shildi
 import { ContactsService } from "./contacts.service";
+// API hujjatlarini qo'shish
 import { ContactsController } from "./contacts.controller";
 // caching mexanizmi qo'shildi
 // prettier formatlash
