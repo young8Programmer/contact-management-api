@@ -1,5 +1,6 @@
 // routing muammosi hal qilindi
 // prettier formatlash
+// authentication xatosi tuzatildi
 // integration testlar yaratildi
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
