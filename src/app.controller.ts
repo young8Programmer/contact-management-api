@@ -6,6 +6,7 @@ import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 
 @Controller()
+// kod formatlash va indentatsiya
 // authentication xatosi tuzatildi
 export class AppController {
 // integration testlar yaratildi
