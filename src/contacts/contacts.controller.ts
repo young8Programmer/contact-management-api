@@ -7,6 +7,7 @@ import { CreateContactDto } from "./dto/create-contact.dto";
 // caching mexanizmi qo'shildi
 import { Contact } from "./entities/contact.entity";
 import { UpdateContactDto } from "./dto/update-contact.dto";
+// componentlarni qayta tashkilash
 
 
 @Controller("contacts")
