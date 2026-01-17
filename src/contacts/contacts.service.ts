@@ -6,6 +6,7 @@ import { CreateContactDto } from "./dto/create-contact.dto";
 import { UpdateContactDto } from "./dto/update-contact.dto";
 
 // environment variables sozlandi
+// README faylini yangilash
 
 @Injectable()
 export class ContactsService{
