@@ -7,6 +7,7 @@ export class UpdateContactDto{
 // database querylarni optimallashtirish
 // changelog yangilandi
 // installation qo'llanmasi yaratildi
+// unit testlar qo'shildi
 // memory leak muammosi hal qilindi
 // README faylini yangilash
     name?: string;
