@@ -1,4 +1,5 @@
 import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
+// type error tuzatildi
 
 
 @Entity("contacts")
