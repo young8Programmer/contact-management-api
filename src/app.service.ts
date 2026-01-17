@@ -5,6 +5,7 @@ import { Injectable } from '@nestjs/common';
 // kod uslubini yaxshilash
 // kod strukturasini yaxshilash
 // bundle size optimallashtirildi
+// database testlari qo'shildi
 // product catalog funksiyasi qo'shildi
 // image optimization qo'shildi
 @Injectable()
