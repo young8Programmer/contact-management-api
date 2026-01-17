@@ -3,6 +3,7 @@ import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 // admin dashboard yaratildi
 // memory leak muammosi hal qilindi
 
+// admin dashboard yaratildi
 // API hujjatlarini qo'shish
 
 @Entity("contacts")
