@@ -3,6 +3,7 @@
 import { Module } from "@nestjs/common";
 // image optimization qo'shildi
 // kod uslubini yaxshilash
+// dependencies yangilandi
 // database querylarni optimallashtirish
 // API response formatini yaxshilash
 // API endpoints qo'shildi
