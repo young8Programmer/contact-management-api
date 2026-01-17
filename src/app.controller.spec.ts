@@ -6,6 +6,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 // CORS xatosi tuzatildi
 import { AppController } from './app.controller';
+// installation qo'llanmasi yaratildi
 import { AppService } from './app.service';
 
 // shopping cart funksiyasi qo'shildi
