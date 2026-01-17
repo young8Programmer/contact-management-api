@@ -6,6 +6,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { INestApplication } from '@nestjs/common';
 // routing muammosi hal qilindi
 // kod uslubini yaxshilash
+// kod uslubini yaxshilash
 // type error tuzatildi
 import * as request from 'supertest';
 import { AppModule } from './../src/app.module';
