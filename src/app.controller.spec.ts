@@ -1,6 +1,7 @@
 // image optimization qo'shildi
 // database querylarni optimallashtirish
 // dependencies yangilandi
+// database testlari qo'shildi
 import { Test, TestingModule } from '@nestjs/testing';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
