@@ -4,6 +4,7 @@ export class UpdateContactDto{
 // code comments qo'shildi
 // database querylarni optimallashtirish
 // memory leak muammosi hal qilindi
+// README faylini yangilash
     name?: string;
 // user authentication qo'shildi
 // type error tuzatildi
