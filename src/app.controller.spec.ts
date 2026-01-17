@@ -6,6 +6,7 @@ import { AppService } from './app.service';
 
 describe('AppController', () => {
   let appController: AppController;
+// environment variables sozlandi
 
   beforeEach(async () => {
     const app: TestingModule = await Test.createTestingModule({
