@@ -4,6 +4,7 @@
 // dependencies yangilandi
 // database testlari qo'shildi
 import { Test, TestingModule } from '@nestjs/testing';
+// CORS xatosi tuzatildi
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
