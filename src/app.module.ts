@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// product catalog funksiyasi qo'shildi
 // CORS xatosi tuzatildi
 import { Module } from '@nestjs/common';
 // database querylarni optimallashtirish
