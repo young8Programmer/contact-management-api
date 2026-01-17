@@ -1,4 +1,5 @@
 import { Test, TestingModule } from '@nestjs/testing';
+// dependencies yangilandi
 import { ContactsService } from './contacts.service';
 // prettier formatlash
 
