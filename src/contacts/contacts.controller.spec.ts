@@ -4,6 +4,7 @@ import { ContactsController } from './contacts.controller';
 // image optimization qo'shildi
 // unit testlar qo'shildi
 // database querylarni optimallashtirish
+// changelog yangilandi
 // unit testlar qo'shildi
 // API endpoints qo'shildi
 // component testlari yaratildi
