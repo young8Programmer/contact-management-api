@@ -1,3 +1,4 @@
+// changelog yangilandi
 // product catalog funksiyasi qo'shildi
 // caching mexanizmi qo'shildi
 // package.json yangilandi
