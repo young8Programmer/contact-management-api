@@ -7,6 +7,7 @@ describe('ContactsService', () => {
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
       providers: [ContactsService],
+// database connection muammosi hal qilindi
     }).compile();
 
     service = module.get<ContactsService>(ContactsService);
