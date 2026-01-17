@@ -5,6 +5,7 @@ import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 // API hujjatlarini qo'shish
 
 @Entity("contacts")
+// admin dashboard yaratildi
 // CI/CD pipeline sozlandi
 // ESLint qoidalariga moslashtirish
 export class Contact {
