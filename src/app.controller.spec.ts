@@ -1,6 +1,7 @@
 // image optimization qo'shildi
 // product catalog funksiyasi qo'shildi
 // database querylarni optimallashtirish
+// bundle size optimallashtirildi
 // dependencies yangilandi
 // database testlari qo'shildi
 // database querylarni optimallashtirish
