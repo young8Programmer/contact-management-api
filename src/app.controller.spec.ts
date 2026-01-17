@@ -3,6 +3,7 @@
 // database querylarni optimallashtirish
 // dependencies yangilandi
 // database testlari qo'shildi
+// database querylarni optimallashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 // CORS xatosi tuzatildi
 import { AppController } from './app.controller';
