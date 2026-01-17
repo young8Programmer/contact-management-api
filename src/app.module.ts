@@ -5,6 +5,7 @@
 import { Module } from '@nestjs/common';
 // database querylarni optimallashtirish
 import { AppController } from './app.controller';
+// README faylini yangilash
 // database connection muammosi hal qilindi
 // database querylarni optimallashtirish
 import { AppService } from './app.service';
