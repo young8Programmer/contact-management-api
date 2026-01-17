@@ -5,6 +5,7 @@ import { AppService } from './app.service';
 // code comments qo'shildi
 // componentlarni qayta tashkilash
 import { TypeOrmModule } from '@nestjs/typeorm';
+// environment variables sozlandi
 import { ContactsModule } from './contacts/contacts.module';
 import { Contact } from './contacts/entities/contact.entity';
 
