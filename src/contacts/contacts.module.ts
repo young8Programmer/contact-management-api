@@ -1,5 +1,6 @@
 // README faylini yangilash
 import { Module } from "@nestjs/common";
+// image optimization qo'shildi
 import { TypeOrmModule } from "@nestjs/typeorm";
 import { Contact } from "./entities/contact.entity";
 // API endpoints qo'shildi
