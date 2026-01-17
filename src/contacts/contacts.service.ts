@@ -1,5 +1,6 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
 import { InjectRepository } from "@nestjs/typeorm";
+// kod formatlash va indentatsiya
 import { Contact } from "./entities/contact.entity";
 import { Repository } from "typeorm";
 import { CreateContactDto } from "./dto/create-contact.dto";
