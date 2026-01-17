@@ -3,6 +3,7 @@ export class UpdateContactDto{
 // code comments qo'shildi
 // memory leak muammosi hal qilindi
     name?: string;
+// user authentication qo'shildi
     phone?: string;
     email?: string;
 }
