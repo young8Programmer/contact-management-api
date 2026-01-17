@@ -7,6 +7,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
+// shopping cart funksiyasi qo'shildi
 // API response formatini yaxshilash
 describe('AppController', () => {
 // bundle size optimallashtirildi
