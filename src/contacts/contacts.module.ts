@@ -1,3 +1,4 @@
+// routing muammosi hal qilindi
 // README faylini yangilash
 import { Module } from "@nestjs/common";
 // image optimization qo'shildi
