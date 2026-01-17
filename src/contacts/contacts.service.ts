@@ -5,6 +5,7 @@ import { InjectRepository } from "@nestjs/typeorm";
 // componentlarni qayta tashkilash
 // kod formatlash va indentatsiya
 import { Contact } from "./entities/contact.entity";
+// environment variables sozlandi
 import { Repository } from "typeorm";
 import { CreateContactDto } from "./dto/create-contact.dto";
 // build konfiguratsiyasi sozlandi
