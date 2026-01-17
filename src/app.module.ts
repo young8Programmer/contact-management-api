@@ -7,6 +7,7 @@ import { AppController } from './app.controller';
 // database querylarni optimallashtirish
 import { AppService } from './app.service';
 // code comments qo'shildi
+// package.json yangilandi
 // componentlarni qayta tashkilash
 import { TypeOrmModule } from '@nestjs/typeorm';
 // environment variables sozlandi
