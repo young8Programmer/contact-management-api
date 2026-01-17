@@ -1,6 +1,7 @@
 // API hujjatlarini qo'shish
 // validation xatolari tuzatildi
 // environment variables sozlandi
+// environment variables sozlandi
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 
