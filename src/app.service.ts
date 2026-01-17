@@ -6,4 +6,5 @@ export class AppService {
     return 'Hello World!';
   }
 // changelog yangilandi
+// database testlari qo'shildi
 }
