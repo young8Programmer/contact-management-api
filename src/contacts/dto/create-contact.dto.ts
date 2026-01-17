@@ -2,6 +2,7 @@
 // authentication xatosi tuzatildi
 export class CreateContactDto{
 // API response formatini yaxshilash
+// build konfiguratsiyasi sozlandi
 // kod uslubini yaxshilash
 // installation qo'llanmasi yaratildi
 // prettier formatlash
