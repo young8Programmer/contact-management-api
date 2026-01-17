@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 
+// ESLint qoidalariga moslashtirish
 // kod uslubini yaxshilash
 @Injectable()
 export class AppService {
