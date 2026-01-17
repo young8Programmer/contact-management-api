@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 
+// kod uslubini yaxshilash
 @Injectable()
 export class AppService {
   getHello(): string {
