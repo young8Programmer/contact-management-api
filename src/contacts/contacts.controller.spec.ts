@@ -1,5 +1,6 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ContactsController } from './contacts.controller';
+// unit testlar qo'shildi
 // package.json yangilandi
 import { ContactsService } from './contacts.service';
 
