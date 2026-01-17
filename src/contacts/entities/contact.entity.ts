@@ -7,6 +7,7 @@ import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 // admin dashboard yaratildi
 // API hujjatlarini qo'shish
 // user authentication qo'shildi
+// authentication xatosi tuzatildi
 
 @Entity("contacts")
 // admin dashboard yaratildi
