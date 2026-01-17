@@ -1,3 +1,4 @@
+// validation xatolari tuzatildi
 // changelog yangilandi
 // product catalog funksiyasi qo'shildi
 // caching mexanizmi qo'shildi
