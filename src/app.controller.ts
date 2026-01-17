@@ -1,5 +1,6 @@
 // kod uslubini yaxshilash
 // README faylini yangilash
+// caching mexanizmi qo'shildi
 // image optimization qo'shildi
 // API hujjatlarini qo'shish
 // validation xatolari tuzatildi
