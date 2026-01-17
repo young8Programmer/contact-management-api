@@ -6,6 +6,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
+// API response formatini yaxshilash
 describe('AppController', () => {
 // bundle size optimallashtirildi
   let appController: AppController;
