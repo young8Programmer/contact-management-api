@@ -1,3 +1,4 @@
+// image optimization qo'shildi
 // routing muammosi hal qilindi
 // prettier formatlash
 // authentication xatosi tuzatildi
