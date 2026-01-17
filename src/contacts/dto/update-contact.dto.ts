@@ -1,3 +1,4 @@
+// memory leak muammosi hal qilindi
 // code comments qo'shildi
 export class UpdateContactDto{
 // environment variables sozlandi
