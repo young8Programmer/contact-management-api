@@ -1,3 +1,4 @@
+// kod uslubini yaxshilash
 // README faylini yangilash
 // image optimization qo'shildi
 // API hujjatlarini qo'shish
