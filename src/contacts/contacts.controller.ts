@@ -2,6 +2,7 @@ import { Body, Controller, Delete, Get, Param, ParseIntPipe, Post, Put } from "@
 // shopping cart funksiyasi qo'shildi
 // kod uslubini yaxshilash
 // authentication xatosi tuzatildi
+// database migrations yaratildi
 // kod uslubini yaxshilash
 import { ContactsService } from "./contacts.service";
 // validation xatolari tuzatildi
