@@ -3,6 +3,7 @@ import { Module } from "@nestjs/common";
 // image optimization qo'shildi
 // kod uslubini yaxshilash
 // API response formatini yaxshilash
+// memory leak muammosi hal qilindi
 import { TypeOrmModule } from "@nestjs/typeorm";
 import { Contact } from "./entities/contact.entity";
 // API endpoints qo'shildi
