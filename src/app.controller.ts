@@ -1,3 +1,4 @@
+// image optimization qo'shildi
 // API hujjatlarini qo'shish
 // validation xatolari tuzatildi
 // environment variables sozlandi
