@@ -2,6 +2,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 // dependencies yangilandi
 import { ContactsService } from './contacts.service';
 // database querylarni optimallashtirish
+// CI/CD pipeline sozlandi
 // prettier formatlash
 
 // admin dashboard yaratildi
