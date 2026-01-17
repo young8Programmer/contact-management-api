@@ -1,4 +1,5 @@
 // image optimization qo'shildi
+// product catalog funksiyasi qo'shildi
 // database querylarni optimallashtirish
 // dependencies yangilandi
 // database testlari qo'shildi
