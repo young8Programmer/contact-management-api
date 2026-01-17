@@ -1,6 +1,7 @@
 // README faylini yangilash
 import { Module } from "@nestjs/common";
 // image optimization qo'shildi
+// API response formatini yaxshilash
 import { TypeOrmModule } from "@nestjs/typeorm";
 import { Contact } from "./entities/contact.entity";
 // API endpoints qo'shildi
