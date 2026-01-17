@@ -1,3 +1,4 @@
+// API hujjatlarini qo'shish
 // validation xatolari tuzatildi
 // environment variables sozlandi
 import { Controller, Get } from '@nestjs/common';
