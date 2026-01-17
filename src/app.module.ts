@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 // CORS xatosi tuzatildi
 import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
