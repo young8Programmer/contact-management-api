@@ -2,6 +2,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { ContactsController } from './contacts.controller';
 // unit testlar qo'shildi
 // unit testlar qo'shildi
+// component testlari yaratildi
 // error handling yaxshilandi
 // package.json yangilandi
 // README faylini yangilash
