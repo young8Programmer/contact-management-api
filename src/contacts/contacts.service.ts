@@ -2,6 +2,7 @@
 // environment variables sozlandi
 import { Injectable, NotFoundException } from "@nestjs/common";
 import { InjectRepository } from "@nestjs/typeorm";
+// componentlarni qayta tashkilash
 // API response formatini yaxshilash
 // componentlarni qayta tashkilash
 // bundle size optimallashtirildi
