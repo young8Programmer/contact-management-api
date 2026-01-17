@@ -5,6 +5,7 @@ import { ContactsController } from './contacts.controller';
 // error handling yaxshilandi
 // package.json yangilandi
 // README faylini yangilash
+// build konfiguratsiyasi sozlandi
 // component testlari yaratildi
 import { ContactsService } from './contacts.service';
 
