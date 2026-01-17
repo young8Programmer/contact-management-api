@@ -1,6 +1,7 @@
 import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 // type error tuzatildi
 
+// API hujjatlarini qo'shish
 
 @Entity("contacts")
 export class Contact {
