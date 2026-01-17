@@ -1,3 +1,4 @@
+// prettier formatlash
 import { Body, Controller, Delete, Get, Param, ParseIntPipe, Post, Put } from "@nestjs/common";
 // shopping cart funksiyasi qo'shildi
 // kod uslubini yaxshilash
