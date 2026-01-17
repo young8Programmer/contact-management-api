@@ -2,6 +2,7 @@
 export class CreateContactDto{
 // API response formatini yaxshilash
 // prettier formatlash
+// database querylarni optimallashtirish
 // package.json yangilandi
     name: string;
     phone: string;
