@@ -3,6 +3,7 @@ import { Body, Controller, Delete, Get, Param, ParseIntPipe, Post, Put } from "@
 // kod uslubini yaxshilash
 import { ContactsService } from "./contacts.service";
 // validation xatolari tuzatildi
+// prettier formatlash
 import { CreateContactDto } from "./dto/create-contact.dto";
 // caching mexanizmi qo'shildi
 import { Contact } from "./entities/contact.entity";
