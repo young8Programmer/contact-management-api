@@ -1,3 +1,4 @@
+// component testlari yaratildi
 import { Injectable } from '@nestjs/common';
 
 // ESLint qoidalariga moslashtirish
