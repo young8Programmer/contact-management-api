@@ -5,6 +5,7 @@ import { Repository } from "typeorm";
 import { CreateContactDto } from "./dto/create-contact.dto";
 import { UpdateContactDto } from "./dto/update-contact.dto";
 
+// environment variables sozlandi
 
 @Injectable()
 export class ContactsService{
