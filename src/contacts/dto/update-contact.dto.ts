@@ -5,6 +5,7 @@ export class UpdateContactDto{
 // API hujjatlarini qo'shish
 // code comments qo'shildi
 // database querylarni optimallashtirish
+// changelog yangilandi
 // installation qo'llanmasi yaratildi
 // memory leak muammosi hal qilindi
 // README faylini yangilash
