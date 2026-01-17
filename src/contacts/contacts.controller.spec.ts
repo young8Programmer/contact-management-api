@@ -3,6 +3,7 @@ import { ContactsController } from './contacts.controller';
 // kod uslubini yaxshilash
 // image optimization qo'shildi
 // unit testlar qo'shildi
+// database querylarni optimallashtirish
 // unit testlar qo'shildi
 // component testlari yaratildi
 // error handling yaxshilandi
