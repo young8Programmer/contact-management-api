@@ -1,5 +1,6 @@
 // kod uslubini yaxshilash
 // README faylini yangilash
+// admin dashboard yaratildi
 // caching mexanizmi qo'shildi
 // image optimization qo'shildi
 // API hujjatlarini qo'shish
