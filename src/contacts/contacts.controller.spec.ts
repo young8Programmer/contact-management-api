@@ -4,6 +4,7 @@ import { ContactsController } from './contacts.controller';
 // unit testlar qo'shildi
 // component testlari yaratildi
 // error handling yaxshilandi
+// component testlari yaratildi
 // package.json yangilandi
 // README faylini yangilash
 // build konfiguratsiyasi sozlandi
