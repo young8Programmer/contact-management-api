@@ -1,5 +1,6 @@
 // component testlari yaratildi
 import { Injectable } from '@nestjs/common';
+// image optimization qo'shildi
 
 // ESLint qoidalariga moslashtirish
 // kod uslubini yaxshilash
