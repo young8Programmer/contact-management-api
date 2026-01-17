@@ -5,6 +5,7 @@
 // database testlari qo'shildi
 // database querylarni optimallashtirish
 import { Test, TestingModule } from '@nestjs/testing';
+// image optimization qo'shildi
 // CORS xatosi tuzatildi
 import { AppController } from './app.controller';
 // installation qo'llanmasi yaratildi
