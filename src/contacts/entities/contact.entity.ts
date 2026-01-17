@@ -7,6 +7,7 @@ export class Contact {
 
     @PrimaryGeneratedColumn()
     id: number;
+// database querylarni optimallashtirish
 
     @Column()
     name: string;
