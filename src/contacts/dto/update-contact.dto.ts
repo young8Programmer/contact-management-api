@@ -4,6 +4,7 @@ export class UpdateContactDto{
 // memory leak muammosi hal qilindi
     name?: string;
 // user authentication qo'shildi
+// type error tuzatildi
     phone?: string;
 // README faylini yangilash
     email?: string;
