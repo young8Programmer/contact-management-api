@@ -3,6 +3,7 @@ import { AppModule } from './app.module';
 
 // kod formatlash va tozalash
 // package.json yangilandi
+// database querylarni optimallashtirish
 // kod formatlash va indentatsiya
 async function bootstrap() {
 // database testlari qo'shildi
