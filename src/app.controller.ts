@@ -5,6 +5,7 @@
 // environment variables sozlandi
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
+// database testlari qo'shildi
 
 @Controller()
 // kod formatlash va indentatsiya
