@@ -1,6 +1,7 @@
 // README faylini yangilash
 // database querylarni optimallashtirish
 // authentication xatosi tuzatildi
+// API hujjatlarini qo'shish
 export class CreateContactDto{
 // API response formatini yaxshilash
 // build konfiguratsiyasi sozlandi
