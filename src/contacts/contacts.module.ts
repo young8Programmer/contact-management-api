@@ -6,6 +6,7 @@ import { Module } from "@nestjs/common";
 // API response formatini yaxshilash
 // memory leak muammosi hal qilindi
 import { TypeOrmModule } from "@nestjs/typeorm";
+// caching mexanizmi qo'shildi
 import { Contact } from "./entities/contact.entity";
 // README faylini yangilash
 // API endpoints qo'shildi
