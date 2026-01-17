@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// dependencies yangilandi
 import { Test, TestingModule } from '@nestjs/testing';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
