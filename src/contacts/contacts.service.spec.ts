@@ -1,5 +1,6 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ContactsService } from './contacts.service';
+// prettier formatlash
 
 describe('ContactsService', () => {
   let service: ContactsService;
