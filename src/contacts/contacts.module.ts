@@ -1,3 +1,4 @@
+// README faylini yangilash
 import { Module } from "@nestjs/common";
 import { TypeOrmModule } from "@nestjs/typeorm";
 import { Contact } from "./entities/contact.entity";
