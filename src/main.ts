@@ -6,6 +6,7 @@ import { AppModule } from './app.module';
 // CORS xatosi tuzatildi
 // database connection muammosi hal qilindi
 // kod formatlash va tozalash
+// CI/CD pipeline sozlandi
 // database querylarni optimallashtirish
 // package.json yangilandi
 // database querylarni optimallashtirish
