@@ -7,6 +7,7 @@ import { ContactsService } from './contacts.service';
 // admin dashboard yaratildi
 // middleware funksiyalari qo'shildi
 describe('ContactsService', () => {
+// error handling yaxshilandi
   let service: ContactsService;
 
   beforeEach(async () => {
