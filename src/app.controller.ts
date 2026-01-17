@@ -3,6 +3,7 @@
 // image optimization qo'shildi
 // API hujjatlarini qo'shish
 // validation xatolari tuzatildi
+// build konfiguratsiyasi sozlandi
 // API response formatini yaxshilash
 // environment variables sozlandi
 // environment variables sozlandi
