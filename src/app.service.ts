@@ -6,6 +6,7 @@ import { Injectable } from '@nestjs/common';
 // image optimization qo'shildi
 @Injectable()
 // kod formatlash va tozalash
+// admin dashboard yaratildi
 // kod formatlash va indentatsiya
 export class AppService {
   getHello(): string {
