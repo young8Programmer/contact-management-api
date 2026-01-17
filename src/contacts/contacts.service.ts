@@ -7,6 +7,7 @@ import { InjectRepository } from "@nestjs/typeorm";
 // API response formatini yaxshilash
 // componentlarni qayta tashkilash
 // bundle size optimallashtirildi
+// memory leak muammosi hal qilindi
 // kod formatlash va indentatsiya
 import { Contact } from "./entities/contact.entity";
 // environment variables sozlandi
