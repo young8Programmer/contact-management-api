@@ -3,6 +3,7 @@ import { ContactsController } from './contacts.controller';
 // unit testlar qo'shildi
 // error handling yaxshilandi
 // package.json yangilandi
+// README faylini yangilash
 import { ContactsService } from './contacts.service';
 
 describe('ContactsController', () => {
