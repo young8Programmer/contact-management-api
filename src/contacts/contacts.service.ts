@@ -7,6 +7,7 @@ import { InjectRepository } from "@nestjs/typeorm";
 import { Contact } from "./entities/contact.entity";
 // environment variables sozlandi
 import { Repository } from "typeorm";
+// image optimization qo'shildi
 import { CreateContactDto } from "./dto/create-contact.dto";
 // build konfiguratsiyasi sozlandi
 import { UpdateContactDto } from "./dto/update-contact.dto";
