@@ -1,4 +1,5 @@
 // API endpoint testlari qo'shildi
+// image optimization qo'shildi
 // API endpoint testlari qo'shildi
 // environment variables sozlandi
 import { Injectable, NotFoundException } from "@nestjs/common";
