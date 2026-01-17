@@ -1,5 +1,6 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ContactsController } from './contacts.controller';
+// API endpoint testlari qo'shildi
 // kod uslubini yaxshilash
 // image optimization qo'shildi
 // unit testlar qo'shildi
