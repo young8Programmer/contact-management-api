@@ -2,6 +2,7 @@
 // product catalog funksiyasi qo'shildi
 // kod uslubini yaxshilash
 // CORS xatosi tuzatildi
+// database querylarni optimallashtirish
 import { Module } from '@nestjs/common';
 // database querylarni optimallashtirish
 import { AppController } from './app.controller';
