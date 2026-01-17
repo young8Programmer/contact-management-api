@@ -1,6 +1,7 @@
 // database querylarni optimallashtirish
 // product catalog funksiyasi qo'shildi
 // kod uslubini yaxshilash
+// routing muammosi hal qilindi
 // CORS xatosi tuzatildi
 // CORS xatosi tuzatildi
 // database querylarni optimallashtirish
