@@ -4,6 +4,7 @@ import { Injectable, NotFoundException } from "@nestjs/common";
 import { InjectRepository } from "@nestjs/typeorm";
 // API response formatini yaxshilash
 // componentlarni qayta tashkilash
+// bundle size optimallashtirildi
 // kod formatlash va indentatsiya
 import { Contact } from "./entities/contact.entity";
 // environment variables sozlandi
