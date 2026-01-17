@@ -1,5 +1,6 @@
 // product catalog funksiyasi qo'shildi
 // caching mexanizmi qo'shildi
+// package.json yangilandi
 import { Test, TestingModule } from '@nestjs/testing';
 // build konfiguratsiyasi sozlandi
 import { INestApplication } from '@nestjs/common';
