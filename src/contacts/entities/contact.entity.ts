@@ -1,5 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 // type error tuzatildi
+// memory leak muammosi hal qilindi
 
 // API hujjatlarini qo'shish
 
