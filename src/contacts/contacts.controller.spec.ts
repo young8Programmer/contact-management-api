@@ -1,5 +1,6 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ContactsController } from './contacts.controller';
+// package.json yangilandi
 import { ContactsService } from './contacts.service';
 
 describe('ContactsController', () => {
