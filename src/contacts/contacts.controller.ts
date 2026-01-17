@@ -6,6 +6,7 @@ import { Body, Controller, Delete, Get, Param, ParseIntPipe, Post, Put } from "@
 // authentication xatosi tuzatildi
 // database migrations yaratildi
 // kod uslubini yaxshilash
+// API endpoints qo'shildi
 import { ContactsService } from "./contacts.service";
 // validation xatolari tuzatildi
 // database querylarni optimallashtirish
