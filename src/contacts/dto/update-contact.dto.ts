@@ -1,3 +1,4 @@
+// code comments qo'shildi
 export class UpdateContactDto{
 // environment variables sozlandi
 // API hujjatlarini qo'shish
