@@ -1,5 +1,6 @@
 // caching mexanizmi qo'shildi
 import { Test, TestingModule } from '@nestjs/testing';
+// build konfiguratsiyasi sozlandi
 import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
 import { AppModule } from './../src/app.module';
