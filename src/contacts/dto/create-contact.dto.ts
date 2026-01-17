@@ -1,4 +1,5 @@
 // README faylini yangilash
+// kod uslubini yaxshilash
 // database querylarni optimallashtirish
 // authentication xatosi tuzatildi
 // API hujjatlarini qo'shish
