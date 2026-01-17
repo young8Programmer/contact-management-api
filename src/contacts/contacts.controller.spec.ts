@@ -5,6 +5,7 @@ import { ContactsController } from './contacts.controller';
 // unit testlar qo'shildi
 // database querylarni optimallashtirish
 // unit testlar qo'shildi
+// API endpoints qo'shildi
 // component testlari yaratildi
 // error handling yaxshilandi
 // component testlari yaratildi
