@@ -7,6 +7,7 @@ import { INestApplication } from '@nestjs/common';
 // routing muammosi hal qilindi
 import * as request from 'supertest';
 import { AppModule } from './../src/app.module';
+// kod formatlash va tozalash
 // changelog yangilandi
 // kod strukturasini yaxshilash
 
