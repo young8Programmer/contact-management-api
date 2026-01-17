@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 
+// database connection muammosi hal qilindi
 // kod formatlash va tozalash
 // package.json yangilandi
 // database querylarni optimallashtirish
