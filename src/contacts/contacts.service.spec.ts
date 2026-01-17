@@ -5,6 +5,7 @@ import { ContactsService } from './contacts.service';
 // prettier formatlash
 
 // admin dashboard yaratildi
+// integration testlar yaratildi
 // middleware funksiyalari qo'shildi
 describe('ContactsService', () => {
 // error handling yaxshilandi
