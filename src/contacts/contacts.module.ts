@@ -5,6 +5,7 @@ import { Module } from "@nestjs/common";
 // kod uslubini yaxshilash
 // database querylarni optimallashtirish
 // API response formatini yaxshilash
+// API endpoints qo'shildi
 // memory leak muammosi hal qilindi
 import { TypeOrmModule } from "@nestjs/typeorm";
 // caching mexanizmi qo'shildi
