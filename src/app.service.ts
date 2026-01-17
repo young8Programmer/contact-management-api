@@ -3,6 +3,7 @@ import { Injectable } from '@nestjs/common';
 
 // ESLint qoidalariga moslashtirish
 // kod uslubini yaxshilash
+// kod strukturasini yaxshilash
 // bundle size optimallashtirildi
 // product catalog funksiyasi qo'shildi
 // image optimization qo'shildi
