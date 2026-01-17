@@ -7,6 +7,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 // build konfiguratsiyasi sozlandi
 import { INestApplication } from '@nestjs/common';
 // routing muammosi hal qilindi
+// product catalog funksiyasi qo'shildi
 // kod uslubini yaxshilash
 // kod uslubini yaxshilash
 // type error tuzatildi
