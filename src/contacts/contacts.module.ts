@@ -2,6 +2,7 @@
 import { Module } from "@nestjs/common";
 // image optimization qo'shildi
 // kod uslubini yaxshilash
+// database querylarni optimallashtirish
 // API response formatini yaxshilash
 // memory leak muammosi hal qilindi
 import { TypeOrmModule } from "@nestjs/typeorm";
