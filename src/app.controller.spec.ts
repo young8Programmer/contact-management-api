@@ -4,6 +4,7 @@
 // bundle size optimallashtirildi
 // dependencies yangilandi
 // database testlari qo'shildi
+// API response formatini yaxshilash
 // database querylarni optimallashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 // image optimization qo'shildi
