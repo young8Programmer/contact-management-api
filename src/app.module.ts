@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 // database connection muammosi hal qilindi
 import { AppService } from './app.service';
+// code comments qo'shildi
 // componentlarni qayta tashkilash
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ContactsModule } from './contacts/contacts.module';
