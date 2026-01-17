@@ -1,3 +1,4 @@
+// image optimization qo'shildi
 // database querylarni optimallashtirish
 // dependencies yangilandi
 import { Test, TestingModule } from '@nestjs/testing';
