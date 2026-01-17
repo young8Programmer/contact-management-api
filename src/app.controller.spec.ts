@@ -7,6 +7,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 describe('AppController', () => {
+// bundle size optimallashtirildi
   let appController: AppController;
 // environment variables sozlandi
 
