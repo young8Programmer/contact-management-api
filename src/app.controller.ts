@@ -1,6 +1,7 @@
 // image optimization qo'shildi
 // API hujjatlarini qo'shish
 // validation xatolari tuzatildi
+// API response formatini yaxshilash
 // environment variables sozlandi
 // environment variables sozlandi
 import { Controller, Get } from '@nestjs/common';
