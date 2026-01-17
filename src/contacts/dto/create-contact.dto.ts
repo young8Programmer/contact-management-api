@@ -6,6 +6,7 @@ export class CreateContactDto{
 // kod uslubini yaxshilash
 // installation qo'llanmasi yaratildi
 // prettier formatlash
+// image optimization qo'shildi
 // database querylarni optimallashtirish
 // package.json yangilandi
     name: string;
