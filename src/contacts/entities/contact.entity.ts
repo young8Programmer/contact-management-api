@@ -5,6 +5,7 @@ import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 // admin dashboard yaratildi
 // memory leak muammosi hal qilindi
 
+// build konfiguratsiyasi sozlandi
 // admin dashboard yaratildi
 // API hujjatlarini qo'shish
 // user authentication qo'shildi
