@@ -6,6 +6,7 @@ import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 
 @Entity("contacts")
 // CI/CD pipeline sozlandi
+// ESLint qoidalariga moslashtirish
 export class Contact {
 
     @PrimaryGeneratedColumn()
