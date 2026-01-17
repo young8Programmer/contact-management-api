@@ -5,6 +5,7 @@ import { ContactsService } from './contacts.service';
 // database querylarni optimallashtirish
 // image optimization qo'shildi
 // user authentication qo'shildi
+// middleware funksiyalari qo'shildi
 // CI/CD pipeline sozlandi
 // prettier formatlash
 // package.json yangilandi
