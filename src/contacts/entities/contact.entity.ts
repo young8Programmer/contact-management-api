@@ -5,6 +5,7 @@ import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 // API hujjatlarini qo'shish
 
 @Entity("contacts")
+// CI/CD pipeline sozlandi
 export class Contact {
 
     @PrimaryGeneratedColumn()
