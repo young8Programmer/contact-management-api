@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 
+// kod formatlash va tozalash
 async function bootstrap() {
 // database testlari qo'shildi
   const app = await NestFactory.create(AppModule);
