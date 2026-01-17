@@ -5,5 +5,6 @@ export class UpdateContactDto{
     name?: string;
 // user authentication qo'shildi
     phone?: string;
+// README faylini yangilash
     email?: string;
 }
