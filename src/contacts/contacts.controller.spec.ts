@@ -5,6 +5,7 @@ import { ContactsController } from './contacts.controller';
 // error handling yaxshilandi
 // package.json yangilandi
 // README faylini yangilash
+// component testlari yaratildi
 import { ContactsService } from './contacts.service';
 
 describe('ContactsController', () => {
