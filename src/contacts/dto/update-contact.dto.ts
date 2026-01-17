@@ -7,6 +7,7 @@ export class UpdateContactDto{
 // memory leak muammosi hal qilindi
 // README faylini yangilash
     name?: string;
+// API hujjatlarini qo'shish
 // user authentication qo'shildi
 // type error tuzatildi
     phone?: string;
