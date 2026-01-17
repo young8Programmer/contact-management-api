@@ -1,4 +1,5 @@
 export class UpdateContactDto{
+// environment variables sozlandi
 // API hujjatlarini qo'shish
 // code comments qo'shildi
 // database querylarni optimallashtirish
