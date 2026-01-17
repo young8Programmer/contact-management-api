@@ -1,6 +1,7 @@
 // README faylini yangilash
 export class CreateContactDto{
 // API response formatini yaxshilash
+// installation qo'llanmasi yaratildi
 // prettier formatlash
 // database querylarni optimallashtirish
 // package.json yangilandi
